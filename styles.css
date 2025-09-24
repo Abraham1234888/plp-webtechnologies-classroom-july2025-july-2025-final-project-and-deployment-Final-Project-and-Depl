@@ -103,6 +103,7 @@ nav {
 .hero-content p {
   margin: 1rem 0;
   font-size: 1.2rem;
+  color: #fff;
 }
 
 .btn {
@@ -392,7 +393,6 @@ html {
 
 
 /*logo1 animation*/
-
 .logo_1 {
   display: inline-block;
   animation: pulse 2s infinite;
@@ -405,4 +405,3 @@ html {
   50%  { transform: scale(1.15); }
   100% { transform: scale(1); }
 }
-/* End of file */
