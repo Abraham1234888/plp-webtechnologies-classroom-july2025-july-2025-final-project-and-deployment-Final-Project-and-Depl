@@ -1,4 +1,4 @@
-# 📦 Fashion Design Website
+# 📦 Fashion Design Website_ CORAB Fashion 
 
 A modern,responsive,and elegant fashion design website showcasing unique styles,collections,and services. Built with HTML5,CSS3, and javaScript.
 
@@ -48,6 +48,3 @@ For inquiries,collaborations,or fashion services:
 
 
 
-
-* Successful live deployment with a working link
-* Evidence of following best practices
